@@ -1,6 +1,6 @@
 # xyz.bot
 
-The ultimate discord bot that inclues
+The ultimate discord bot that includes
 + Moderation
 + Info
 + Games
@@ -60,4 +60,11 @@ pip install colorama
 + If `colorama` is showing up
 + If `py-cord` is showing up
 
+## 4: Download the bot
+#### On this page, go up and press the `Code` button
+#### Press Download ZIP
+#### Unzip the files using [7zip](https://7-zip.org) *(or [WinRAR](https://www.win-rar.com/start.html?&L=12))*
 
+## 5: Make the bot
+
+#### Unzip the downloaded files
